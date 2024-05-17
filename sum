@@ -1,0 +1,5 @@
+list_i = list(range(1, 11))
+list_i
+
+total_sum = sum(list_i)
+total_sum
